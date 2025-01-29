@@ -35,17 +35,12 @@ The **Sales Dashboard** provides a **comprehensive view of sales trends** to hel
 - **Heat maps** for regional sales insights.  
 
 ### **Results & Insights**  
-1. **Revenue Trends**:  
-   - Sales increased by **15% in the last quarter** due to seasonal demand.  
-2. **Top-Selling Products**:  
-   - The **Electronics category** contributed the highest revenue.  
-3. **Customer Behavior**:  
-   - **Loyal customers** contribute **60% of total revenue**.  
-4. **Regional Performance**:  
-   - The highest sales volume is from the **North America** region.  
+1. **Revenue Trends**: Sales increased by **15% in the last quarter** due to seasonal demand.  
+2. **Top-Selling Products**: The **Electronics category** contributed the highest revenue.  
+3. **Customer Behavior**: **Loyal customers** contribute **60% of total revenue**.  
+4. **Regional Performance**: The highest sales volume is from the **North America** region.  
 
 ### **Author**  
 **Mohd Faisal**  
 - **LinkedIn**: [Your LinkedIn Profile](#)  
 - **Email**: [Your Email Address](#)  
-
