@@ -41,10 +41,10 @@ The **Sales Dashboard** provides a **comprehensive view of sales trends** to hel
 4. **Regional Performance**: The highest sales volume is from the **North America** region.
 
 ### **Dashboard**
-https://github.com/Mohd-Faisal8081/Sales-Dashboard/blob/main/Dashboard.pdf
+- https://github.com/Mohd-Faisal8081/Sales-Dashboard/blob/main/Dashboard.pdf
 
 ### **DataSet**
-https://github.com/Mohd-Faisal8081/Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx
+- https://github.com/Mohd-Faisal8081/Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
 ### **Author**  
 **Mohd Faisal**  
