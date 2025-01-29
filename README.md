@@ -48,5 +48,5 @@ The **Sales Dashboard** provides a **comprehensive view of sales trends** to hel
 
 ### **Author**  
 **Mohd Faisal**  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Email**: [Your Email Address](#)  
+- **LinkedIn**: www.linkedin.com/in/mohdfaisal-data-analyst
+- **Email**: mohd.faisal8278@gmail.com
