@@ -22,17 +22,17 @@ The **Sales Dashboard** provides a **comprehensive view of sales trends** to hel
 
 ### **Process**
 1. **Data Cleaning & Preparation**  
-   - Removed duplicate and incomplete records.  
-   - Standardized product names and customer details.  
+- Removed duplicate and incomplete records.  
+- Standardized product names and customer details.  
 
 2. **Data Transformation**  
-   - Created calculated measures using **DAX** in Power BI to compute revenue, sales growth, and profit margins.  
+- Created calculated measures using **DAX** in Power BI to compute revenue, sales growth, and profit margins.  
 
 3. **Visualization & Insights**  
-   - Implemented dynamic visualizations, including:  
-     - **Line charts** for sales trends.  
-     - **Bar charts** for product performance.  
-     - **Heat maps** for regional sales insights.  
+- Implemented dynamic visualizations, including:  
+- **Line charts** for sales trends.  
+- **Bar charts** for product performance.  
+- **Heat maps** for regional sales insights.  
 
 ### **Results & Insights**  
 1. **Revenue Trends**:  
