@@ -15,14 +15,10 @@ The **Sales Dashboard** provides a **comprehensive view of sales trends** to hel
 - Analyze regional sales distribution.  
 
 #### **Key Features**  
-1. **Sales Performance Metrics**:  
-   - Total sales, revenue growth, and sales trends over time.  
-2. **Customer Insights**:  
-   - Analyze customer purchasing behavior and segment by demographics.  
-3. **Product Analysis**:  
-   - Identify top-performing and low-performing products.  
-4. **Regional Sales Distribution**:  
-   - Sales breakdown by country, state, or region.  
+1. **Sales Performance Metrics**: Total sales, revenue growth, and sales trends over time.  
+2. **Customer Insights**: Analyze customer purchasing behavior and segment by demographics.  
+3. **Product Analysis**: Identify top-performing and low-performing products.  
+4. **Regional Sales Distribution**: Sales breakdown by country, state, or region.  
 
 ### **Process**
 1. **Data Cleaning & Preparation**  
