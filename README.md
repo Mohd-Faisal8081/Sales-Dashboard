@@ -7,7 +7,6 @@ This project presents an **interactive Power BI dashboard** that analyzes sales 
 ### **Tools & Technologies Used**  
 - **Power BI**: For data visualization and analysis.  
 - **Excel**: Used for data preprocessing and cleaning.  
-- **Dataset**: [Sales Dataset](#) *(Provide a link if hosted elsewhere, like Google Drive).*  
 
 ### **Project Overview**  
 The **Sales Dashboard** provides a **comprehensive view of sales trends** to help businesses:  
