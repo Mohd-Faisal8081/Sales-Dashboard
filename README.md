@@ -38,7 +38,13 @@ The **Sales Dashboard** provides a **comprehensive view of sales trends** to hel
 1. **Revenue Trends**: Sales increased by **15% in the last quarter** due to seasonal demand.  
 2. **Top-Selling Products**: The **Electronics category** contributed the highest revenue.  
 3. **Customer Behavior**: **Loyal customers** contribute **60% of total revenue**.  
-4. **Regional Performance**: The highest sales volume is from the **North America** region.  
+4. **Regional Performance**: The highest sales volume is from the **North America** region.
+
+### **Dashboard**
+
+
+### **DataSet**
+
 
 ### **Author**  
 **Mohd Faisal**  
